@@ -38,11 +38,11 @@ The language has its own [website](https://bhailang.js.org/) and [GitHub page](h
 
 ## Usage/Examples
 
-In the below screenshots, we have the code and then the output. We will declare a few variables and explore the use of conditions and loops in Bhailang. 
+In the below screenshots, first we have showcased the code and then the output. We will declare a few variables and explore the use of conditions and loops in Bhailang. 
 
-<img alt="1" src="./screenshots/1.png" />
+<img alt="1" width="800" src="./screenshots/1.png" />
 
-<img alt="2" src="./screenshots/2.png" />
+<img alt="2" width="800" src="./screenshots/2.png" />
 
 
 
