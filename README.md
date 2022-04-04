@@ -42,7 +42,7 @@ In this example, we will declare a few variables and explore the use of conditio
 
 1. Starting with a simple example. 
 <!-- <img alt="1" width="30px" src="./img/python.png" hspace="8"/> -->
-<img align="right"  alt="1" width="600px" src="./screenshots/1.png" />
+<img align="center"  alt="1" width="600px" src="./screenshots/1.png" />
 
 You'll get an interesting error: **kya kar rha hai tu??**. Now, adding ";" after the print statement the error is resolved.
 
