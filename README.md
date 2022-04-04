@@ -38,17 +38,11 @@ The language has its own [website](https://bhailang.js.org/) and [GitHub page](h
 
 ## Usage/Examples
 
-In this example, we will declare a few variables and explore the use of conditions and loops along with few other functionalities in Bhailang. 
+In this example, we will declare a few variables and explore the use of conditions and loops in Bhailang. 
 
-1. Starting with a simple example. 
-<!-- <img alt="1" width="30px" src="./img/python.png" hspace="8"/> -->
-<img alt="1" width="400px" src="./screenshots/1.png" />
+<img alt="1" src="./screenshots/1.png" />
 
-You'll get an interesting error: **kya kar rha hai tu??**. Now, adding ";" after the print statement the error is resolved.
-
-<img alt="2" width="800px" src="./screenshots/2.png" />
-
-
+<img alt="2" src="./screenshots/2.png" />
 
 
 
