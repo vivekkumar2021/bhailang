@@ -1,5 +1,5 @@
 
-# Bhailang (The forbidden 'Brocode')
+# Bhailang: The forbidden 'Brocode'
 
 
 “Okay! This syntax is intimidating for me. Maybe programming is not my cup of tea”. We all had a similar notion while carving our path into the coding world as coding involves a wide array of programming languages. There is plethora of programming languages such as C++, Python, JavaScript, R, etc. but not a single one in Hindi language.
