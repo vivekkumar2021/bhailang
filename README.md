@@ -44,5 +44,6 @@ In the below screenshots, first we have showcased the code and then the output. 
 
 <img alt="2" width="600" src="./screenshots/2.png" />
 
+## Conclusion
 
-
+It’s a very interesting language and I hope more functionalities keep getting added to this language and maybe one day the whole programming community shifts to this language as it is based on typescript. Imagine one day this language is being taught in Indian schools. Proud of our two Indian BHAI who thought out of the box. 
